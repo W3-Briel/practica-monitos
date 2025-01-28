@@ -1,0 +1,14 @@
+.shadow-top {
+    box-shadow: 4px 4px rgba(0,0,0,0.4) !important;
+}
+
+.monkey-photo {
+    width: 90%;
+    height: 90%;
+    border-radius: 23px;
+}
+
+.monkey-photo-desc {
+    align-items: center;
+    background-color: whitesmoke;
+}
